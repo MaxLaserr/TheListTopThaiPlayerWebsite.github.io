@@ -41,7 +41,7 @@ const items = [{
         location: "Shinku no naraku",
         tiktoklink: "https://www.tiktok.com/@iammc.fish/video/7143165534140517633?_t=ZS-8yuLSenK2Gv&_r=1",
         linkgame: "https://www.roblox.com/games/5130666899/Shinku-no-naraku",
-        Problem: "It can't Wacth on web, you can Wacth on TikTok",
+        Problem: "It can't Wacth on WebSite",
     },
     {
         title: "#6 HackerNewXD",
@@ -182,3 +182,4 @@ for (let i = 0; i < liElements.length; i++) {
 
 
 updateContent(0);
+
