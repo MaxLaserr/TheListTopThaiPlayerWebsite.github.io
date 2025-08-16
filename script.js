@@ -41,7 +41,7 @@ const items = [{
         location: "Shinku no naraku",
         tiktoklink: "https://www.tiktok.com/@iammc.fish/video/7143165534140517633?_t=ZS-8yuLSenK2Gv&_r=1",
         linkgame: "https://www.roblox.com/games/5130666899/Shinku-no-naraku",
-        Problem: "It can't wacth on web, you can wacth on TikTok",
+        Problem: "It can't Wacth on web, you can Wacth on TikTok",
     },
     {
         title: "#6 HackerNewXD",
@@ -77,7 +77,7 @@ const items = [{
         title: "#9 Snow_o0z",
         NamePlayer: "Snow_o0z",
         NameObby: "Tower of Generation Failure",
-        location: "EToH: The Eternal Abyss: [Pit of Misery]",
+        location: "Eternal Towers of Hell: [Ring 8]",
         link: "https://www.youtube.com/watch?v=vsvZ_Eet3ZQ",
         linkgame: "https://www.roblox.com/games/15873244701/EToH-The-Eternal-Abyss",
         Problem: "None",
@@ -179,5 +179,6 @@ for (let i = 0; i < liElements.length; i++) {
         updateContent(i);
     });
 }
+
 
 updateContent(0);
